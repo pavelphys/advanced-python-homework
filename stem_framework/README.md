@@ -5,16 +5,16 @@
 
 1. Create virtual env.
 ```
-$ python3 -m venv venv
+python3 -m venv venv
 ```
 2. Activate virtual env.
 ```
-$ # Linux/macOS
-$ source venv/bin/activate  
+# Linux/macOS
+source venv/bin/activate  
 ```
 ```
-$ # Windows
-$ venv\Scripts\activate  
+# Windows
+venv\Scripts\activate  
 ```
 
 3. Deployment virtual enviroment, install packages from ```requirements.txt``` (Install packages in the virtual env.):
